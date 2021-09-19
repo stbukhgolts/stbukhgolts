@@ -1,5 +1,5 @@
-### Hi there 👋
 
+- 👋 Hi, I’m Stanislav Bukhgolts
 - 🌱 I’m currently learning JS
 - 📫 How to reach me: sbuchholz@yandex.ru
 
